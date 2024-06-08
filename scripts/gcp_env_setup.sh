@@ -2,7 +2,7 @@
 
 #Run the following ONE-TIME-SCRIPT which creates and provisions the necessary GCP cloud services that will be required to create the DevSecOps CICD pipeline for a sample docker application. Here's all the service deployments that will occur once the script finishes:
 
-#Author: Anjali Khatri & Nitin Vashishtha
+
 
 #Enable the following GCP APIs
 #Cloud Build, Binary Authorization, On-Demand Scanning, Resource Manager API, Artifact Registry API, Artifact Registry Vulnerability Scanning, Cloud Deploy API, KMS API and Cloud Functions.
