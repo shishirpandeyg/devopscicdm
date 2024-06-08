@@ -3,7 +3,6 @@
  *
  * @param {!Object} message Event payload.
  * @param {!Object} context Metadata for the event.
- * @author Anjali Khatri & Nitin Vashishtha
  */
  exports.cloudDeployApproval = (message, context) => {
 
